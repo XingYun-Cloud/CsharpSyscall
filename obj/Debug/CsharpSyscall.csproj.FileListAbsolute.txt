@@ -1,0 +1,6 @@
+E:\Learning Record\CSharp\CsharpSyscall\obj\Debug\CsharpSyscall.csproj.CoreCompileInputs.cache
+E:\Learning Record\CSharp\CsharpSyscall\bin\Debug\CsharpSyscall.exe
+E:\Learning Record\CSharp\CsharpSyscall\bin\Debug\CsharpSyscall.pdb
+E:\Learning Record\CSharp\CsharpSyscall\obj\Debug\CsharpSyscall.exe
+E:\Learning Record\CSharp\CsharpSyscall\obj\Debug\CsharpSyscall.pdb
+E:\Learning Record\CSharp\CsharpSyscall\obj\Debug\CsharpSyscall.csprojAssemblyReference.cache
